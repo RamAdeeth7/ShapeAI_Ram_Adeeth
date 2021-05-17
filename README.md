@@ -1,0 +1,2 @@
+# ShapeAI_Ram_Adeeth
+Basic Python and Deep Learning-7 days Hands on Bootcamp
